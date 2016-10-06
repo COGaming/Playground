@@ -7,5 +7,9 @@ namespace Playground
 {
     public class Test
     {
+        public Test()
+        {
+              
+        }
     }
 }
