@@ -42,7 +42,10 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="CollisionResult.cs" />
     <Compile Include="Game1.cs" />
+    <Compile Include="GameTimer.cs" />
+    <Compile Include="MoveableObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test.cs" />
